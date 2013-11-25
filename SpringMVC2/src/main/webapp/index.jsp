@@ -8,6 +8,6 @@
 </head>
 <body>
 
-<a href="welcome.htm">Click here</a>
+<a href="wellcome.htm">Click here</a>
 </body>
 </html>
