@@ -21,7 +21,6 @@ public class HelloWorldController extends AbstractController {
 	@Override
 	protected ModelAndView handleRequestInternal(HttpServletRequest request, HttpServletResponse response) throws Exception {
 		
-		
 		return new ModelAndView("hellopage", "key", message);
 	}
 

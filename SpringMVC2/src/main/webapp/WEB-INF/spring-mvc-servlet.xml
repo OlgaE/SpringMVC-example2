@@ -15,7 +15,7 @@
 		</property>
 	</bean>
 
-	<bean name="wellcome.htm" class="com.demo.HelloWorldController">
+	<bean name="/wellcome.htm" class="com.demo.HelloWorldController">
 		<property name="message" value="Hello World."></property>
 	</bean>
 
